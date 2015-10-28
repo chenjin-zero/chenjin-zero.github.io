@@ -107,13 +107,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[SecondArticle]]></title>
+    <title><![CDATA[test2]]></title>
     <link href="http://chenjin-zero.github.io/2015/09/27/test2/"/>
     <id>http://chenjin-zero.github.io/2015/09/27/test2/</id>
     <published>2015-09-27T06:55:09.000Z</published>
-    <updated>2015-10-28T03:07:56.000Z</updated>
+    <updated>2015-10-28T04:39:04.000Z</updated>
     <content type="html"><![CDATA[<hr>
-<h2 id="Test_Article">Test Article</h2><h3 id="This_is_Second_posted_article">This is Second posted article</h3><h4 id="Ul_List">Ul List</h4><ul>
+<h2 id="Test_Article">Test Article</h2><h3 id="This_is_test2_posted_article">This is test2 posted article</h3><h4 id="Ul_List">Ul List</h4><ul>
 <li>Hello</li>
 <li>Welcome</li>
 <li>Goodmorning</li>
@@ -167,7 +167,7 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<hr>
-<h2 id="Test_Article">Test Article</h2><h3 id="This_is_Second_posted_article">This is Second posted article</h3><h4 id="Ul_List">Ul Lis]]>
+<h2 id="Test_Article">Test Article</h2><h3 id="This_is_test2_posted_article">This is test2 posted article</h3><h4 id="Ul_List">Ul List<]]>
     </summary>
     
       <category term="blog" scheme="http://chenjin-zero.github.io/tags/blog/"/>
@@ -317,13 +317,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[ThirdArticle]]></title>
+    <title><![CDATA[test3]]></title>
     <link href="http://chenjin-zero.github.io/2015/09/17/test3/"/>
     <id>http://chenjin-zero.github.io/2015/09/17/test3/</id>
     <published>2015-09-17T06:55:09.000Z</published>
-    <updated>2015-10-28T03:08:30.000Z</updated>
+    <updated>2015-10-28T04:39:12.000Z</updated>
     <content type="html"><![CDATA[<hr>
-<h2 id="Test_Article">Test Article</h2><h3 id="This_is_Third_posted_article">This is Third posted article</h3><h4 id="Ul_List">Ul List</h4><ul>
+<h2 id="Test_Article">Test Article</h2><h3 id="This_is_test3_article">This is test3 article</h3><h4 id="Ul_List">Ul List</h4><ul>
 <li>Hello</li>
 <li>Welcome</li>
 <li>Goodmorning</li>
@@ -377,7 +377,8 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<hr>
-<h2 id="Test_Article">Test Article</h2><h3 id="This_is_Third_posted_article">This is Third posted article</h3><h4 id="Ul_List">Ul List<]]>
+<h2 id="Test_Article">Test Article</h2><h3 id="This_is_test3_article">This is test3 article</h3><h4 id="Ul_List">Ul List</h4><ul>
+<li>H]]>
     </summary>
     
       <category term="blog" scheme="http://chenjin-zero.github.io/tags/blog/"/>
@@ -457,13 +458,13 @@
   </entry>
   
   <entry>
-    <title><![CDATA[firstArticle]]></title>
+    <title><![CDATA[test1]]></title>
     <link href="http://chenjin-zero.github.io/2015/08/10/test1/"/>
     <id>http://chenjin-zero.github.io/2015/08/10/test1/</id>
     <published>2015-08-10T06:55:09.000Z</published>
-    <updated>2015-10-28T03:08:39.000Z</updated>
+    <updated>2015-10-28T04:38:53.000Z</updated>
     <content type="html"><![CDATA[<hr>
-<h2 id="Test_Article">Test Article</h2><h3 id="This_is_first_posted_article">This is first posted article</h3><h4 id="Ul_List">Ul List</h4><ul>
+<h2 id="Test_Article">Test Article</h2><h3 id="This_is_test1_article">This is test1 article</h3><h4 id="Ul_List">Ul List</h4><ul>
 <li>Hello</li>
 <li>Welcome</li>
 <li>Goodmorning</li>
@@ -517,7 +518,8 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<hr>
-<h2 id="Test_Article">Test Article</h2><h3 id="This_is_first_posted_article">This is first posted article</h3><h4 id="Ul_List">Ul List<]]>
+<h2 id="Test_Article">Test Article</h2><h3 id="This_is_test1_article">This is test1 article</h3><h4 id="Ul_List">Ul List</h4><ul>
+<li>H]]>
     </summary>
     
       <category term="blog" scheme="http://chenjin-zero.github.io/tags/blog/"/>
